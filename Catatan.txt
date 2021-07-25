@@ -1,0 +1,7 @@
+*Code untuk face recognition using webcam hanya bisa dijalankan di lokal atau di jupyter notebook karena harus open webcam.
+
+Library yang perlu diinstall pada anaconda prompt
+
+cv2 : python -m pip install opencv-python or conda install -c conda-forge opencv
+Skimage : conda install scikit-image
+Matplotlib : conda install matplotlib
