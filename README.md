@@ -1,0 +1,2 @@
+# Face-Recognition-With-Python
+Mengaplikasikan teknik – teknik yang ada di pengolahan citra untuk pembuatan program yang bisa mendeteksi wajah dan mata manusia dengan bahasa pemrograman python dan beberapa library yang telah disediakan serta membahas teori-teori yang terkait dengan pembuatan program tersebut. Teknik-teknik pengolahan citra yang digunakan adalah RGB to Grayscale, Cascade Classifier, Scale Factor, Image Segmentation, Contour.
